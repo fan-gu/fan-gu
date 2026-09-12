@@ -1,4 +1,4 @@
-# Fan Gu, CFA
+# Fan Gu
 ### Financial Risk & Applied AI
 
 I bring international banking experience across Paris, Shanghai and Singapore to building practical AI applications for financial professionals.
